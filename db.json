@@ -36,30 +36,30 @@
   },
 
   "brew-coffee": {
-    "appSettings": [
-      { "background_color": "grey" },
-      { "font_color": "white" },
-      { "font_size": "14" },
-      { "blankURL": "https://duckduckgo.com/" }
-    ],
-    "socialMedia": [
-      { "gitCodeURL": "https://github.com/SensehacK" },
-      { "LinkedInURL": "https://in.linkedin.com/in/kautilyasave" },
-      { "portfolioURL": "https://sensehack.github.io/" },
-      { "twitterURL": "twitter.com/kautilyasave/" },
-      { "traktTvURL": "https://trakt.tv/users/sensehack" },
-      { "lastFmURL": "https://www.last.fm/user/Sensehack" },
-      { "spotifyURL": "https://open.spotify.com/user/sensehack" }
-    ],
-    "appMisc": [
-      { "appTodayMsg": "Snowball Alert" },
-      { "greetMsg": "Hello Friend!" },
-      { "errorMsg": "Its not a bug, Its a feature" },
-      { "sourceCodeURL": "https://github.com/SensehacK/Masters_Comp_Science/" },
-      {
-        "reportErrorURL": "https://github.com/SensehacK/Masters_Comp_Science/issues"
-      },
-      { "emailURL": "mailto:kautilyasave@gmail.com" }
-    ]
+    "appSettings": {
+      "background_color": "grey",
+      "font_color": "white",
+      "font_size": "14",
+      "blankURL": "https://duckduckgo.com/"
+    },
+
+    "socialMedia": {
+      "gitCodeURL": "https://github.com/SensehacK",
+      "LinkedInURL": "https://in.linkedin.com/in/kautilyasave",
+      "portfolioURL": "https://sensehack.github.io/",
+      "twitterURL": "twitter.com/kautilyasave/",
+      "traktTvURL": "https://trakt.tv/users/sensehack",
+      "lastFmURL": "https://www.last.fm/user/Sensehack",
+      "spotifyURL": "https://open.spotify.com/user/sensehack"
+    },
+    "appMisc": {
+      "appTodayMsg": "Snowball Alert",
+      "greetMsg": "Hello Friend!",
+      "errorMsg": "Its not a bug, Its a feature",
+      "sourceCodeURL": "https://github.com/SensehacK/Masters_Comp_Science/",
+
+      "reportErrorURL": "https://github.com/SensehacK/Masters_Comp_Science/issues",
+      "emailURL": "mailto:kautilyasave@gmail.com"
+    }
   }
 }

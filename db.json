@@ -40,7 +40,9 @@
       "background_color": "grey",
       "font_color": "white",
       "font_size": "14",
-      "blankURL": "https://duckduckgo.com/"
+      "blankURL": "https://duckduckgo.com/",
+      "coffee_slider_val": 0.3,
+      "coffee_water_val": 150
     },
 
     "socialMedia": {
@@ -57,7 +59,6 @@
       "greetMsg": "Hello Friend!",
       "errorMsg": "Its not a bug, Its a feature",
       "sourceCodeURL": "https://github.com/SensehacK/Masters_Comp_Science/",
-
       "reportErrorURL": "https://github.com/SensehacK/Masters_Comp_Science/issues",
       "emailURL": "mailto:kautilyasave@gmail.com"
     }
